@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hola, soy Aimar 👋
 
-<!--
-**aimarlarriba/aimarlarriba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **4º de Ingeniería Informática** en la **EHU (Escuela de Ingeniería de Bilbao - San Mamés)**, enfocado en el desarrollo de software y especializandome en **Machine Learning e Inteligencia Artificial**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológico
+
+* **Lenguajes:** Python, C++, Java, SQL, R
+* **ML & Data Science:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Keras
+* **Herramientas & DevOps:** Git, Docker, Linux, Jupyter Notebooks, FastAPI
+
+---
+
+### 📫 ¿Cómo contactar conmigo?
+
+* **LinkedIn:** www.linkedin.com/in/aimar-larriba-4a3617238
