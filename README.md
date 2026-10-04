@@ -12,4 +12,4 @@ Estudiante de Ingeniería Informática en la **UPV/EHU**, especializado en **Mac
 - [SAD Clasificación Automatizada](https://github.com/aimarlarriba/SAD-Clasificacion-Automatizada): Framework modular de experimentación y barrido de hiperparámetros para modelos de ML.
 - [Pokédex Flask Manager](https://github.com/aimarlarriba/pokedex-flask-manager): Plataforma web interactiva con autenticación, testing y arquitectura modular.
 
-📫 **Contacto:** www.linkedin.com/in/aimar-larriba-4a3617238 | aimarlarriba12@gmail.com
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/aimar-larriba-4a3617238) | [aimarlarriba12@gmail.com](mailto:aimarlarriba12@gmail.com)
