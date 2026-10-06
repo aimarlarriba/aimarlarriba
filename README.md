@@ -1,4 +1,4 @@
-🌐 **Language / Idioma:** [English](README.en.md) • [Español](README.md)
+🌐 **Language / Idioma:** [English](README.md) • [Español](README.es.md)
 
 <div align="center">
 
