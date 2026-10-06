@@ -1,3 +1,5 @@
+🌐 **Language / Idioma:** [Español](README.md) • [English](README.en.md)
+
 <div align="center">
 
 # ¡Hola, soy Aimar Larriba! 👋
@@ -70,6 +72,9 @@ Apasionado por la intersección entre la **ingeniería del software** y la **cie
 
 * **[Pokédex Ecosystem & Resilient Data Sync](https://github.com/aimarlarriba/pokedex-flask-manager)**  
   Plataforma web modular full-stack construida en Python y **Flask** aplicando el patrón **Application Factory** y **Blueprints**. Integra persistencia en SQLite con un motor de sincronización autorreparable (*auto-healing*) contra la PokeAPI pública, visualizador recursivo de cadenas evolutivas y suite de pruebas unitarias automatizada con **CI/CD en GitHub Actions**.
+
+* **[eGela2Dropbox — Sincronizador Moodle a la Nube](https://github.com/aimarlarriba/eGela2Dropbox)**  
+  Aplicación de escritorio en Python (**Tkinter**) para la sincronización automatizada de materiales docentes entre el campus virtual eGela (**Moodle LMS**) y **Dropbox**. Implementa web scraping autenticado con sesiones en **BeautifulSoup**, streaming de archivos y flujo de autorización **OAuth 2.0 nativo** sobre sockets TCP efímeros (`localhost:8070`).
 
 * **[KittyBoom — Retro Java Arcade Game](https://github.com/aimarlarriba/KittyBoom)**  
   Videojuego arcade desktop estilo Bomberman desarrollado en Java puro con Swing. Diseñado con una rigurosa arquitectura **MVC** y patrones de diseño clásicos **GoF** (**Observer** para el refresco del tablero de juego, **Factory Method** para la generación de entidades y **Strategy** para la tipología de bloques y bombas).
