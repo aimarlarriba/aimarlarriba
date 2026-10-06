@@ -70,6 +70,9 @@ Apasionado por la intersección entre la **ingeniería del software** y la **cie
 
 #### 💻 Ingeniería de Software, Backend & Sistemas
 
+* **[Azure Nebulas — Caso de Estudio de Gestión de Proyectos & Gobernanza IA](https://github.com/aimarlarriba/azure-nebulas-project-management)**  
+  Caso de estudio empírico de Dirección de Proyectos de Software y desarrollo asistido por IA generativa en la UPV/EHU. Integra seguimiento ágil en **OpenProject**, estimación con **Planning Poker**, reducción de costes del **53,75%** (1.645 € ahorrados), matriz de riesgos formal (R-1 a R-10) y memoria técnica oficial de 26 páginas.
+
 * **[Pokédex Ecosystem & Resilient Data Sync](https://github.com/aimarlarriba/pokedex-flask-manager)**  
   Plataforma web modular full-stack construida en Python y **Flask** aplicando el patrón **Application Factory** y **Blueprints**. Integra persistencia en SQLite con un motor de sincronización autorreparable (*auto-healing*) contra la PokeAPI pública, visualizador recursivo de cadenas evolutivas y suite de pruebas unitarias automatizada con **CI/CD en GitHub Actions**.
 

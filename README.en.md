@@ -70,6 +70,9 @@ Passionate about the intersection of **software engineering** and **data science
 
 #### 💻 Software Engineering, Backend & Systems
 
+* **[Azure Nebulas — Project Management & AI Governance Case Study](https://github.com/aimarlarriba/azure-nebulas-project-management)**  
+  Empirical case study on Software Project Management and Generative AI-assisted engineering at UPV/EHU. Features Agile tracking via **OpenProject**, **Planning Poker** estimations, **53.75%** budget cost optimization (€1,645.40 saved), 10-point formal risk management matrix, and full 26-page academic report.
+
 * **[Pokédex Ecosystem & Resilient Data Sync](https://github.com/aimarlarriba/pokedex-flask-manager)**  
   Modular full-stack web platform built with Python and **Flask** implementing the **Application Factory** and **Blueprints** patterns. Features SQLite relational storage with an **auto-healing** synchronization engine querying the public PokeAPI, recursive evolution trees, and an automated Pytest test suite with **GitHub Actions CI/CD**.
 
